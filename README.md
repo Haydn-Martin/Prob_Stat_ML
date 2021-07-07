@@ -4,9 +4,9 @@ Probability, statistics and machine learning.
 
 SPIEL
 
-Some_Distributions
-Basic_Statistical_Measures
-Classical A_B_Test
+Some_Distributions - DONE
+Basic_Statistical_Measures - DONE
+Classical A_B_Test - DONE
 Bayesian hypothesis testing
-Classical Regression
-ML Regression
+Classical_One_Variable_Linear_Regression
+ML_Multi_Variable_Linear_Regression
